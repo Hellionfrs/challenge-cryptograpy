@@ -76,7 +76,6 @@ p DICT_HASH
     moves.sum
   end
   
-  
   p total_moves("art")
   p decode("6ULw9", "hello")
   p decode("A sw Z5e9 MSVQMQW5g", "Marvolo")
